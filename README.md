@@ -20,7 +20,7 @@ The **Editor Width Adjuster** plugin allows you to easily adjust the editor widt
 
 ### From GitHub (Manual Installation)
 1. Download the latest release from [GitHub](https://github.com/shahedsalehi/Obsedian-Editor-Width-Adjuster).
-2. Extract the files to your vault's `.obsidian/plugins/editor-width-adjust/` folder.
+2. Extract the files to your vault's `.obsidian/plugins/editor-width-adjuster/` folder.
 3. Enable the plugin from the `Settings` > `Community plugins` menu in Obsidian.
 
 ## Settings
