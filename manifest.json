@@ -1,0 +1,11 @@
+{
+	"id": "editor-width-adjuster",
+	"name": "Editor Width Adjuster",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "A plugin to dynamically adjust the editor width with a slider and additional customization options.",
+	"author": "Shahed Salehi",
+	"authorUrl": "https://github.com/shahedsalehi",
+	"isDesktopOnly": false
+  }
+  
