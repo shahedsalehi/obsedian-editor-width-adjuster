@@ -1,4 +1,4 @@
-# Editor Width Adjuster Plugin
+# Obsedian Editor Width Adjuster Plugin
 
 ## Overview
 The **Editor Width Adjust** plugin allows you to easily adjust the editor width in Obsidian with a slider. Customize the minimum and maximum editor widths, and adjust the width dynamically with a `Ctrl + Scroll` feature.
@@ -32,4 +32,4 @@ The **Editor Width Adjust** plugin allows you to easily adjust the editor width 
 - **Show Width Value**: Toggle to show the current width value next to the slider.
 
 ## License
-[MIT License](LICENSE)
+[MIT License](https://github.com/shahedsalehi/Obsedian-Editor-Width-Adjuster/blob/master/LICENSE.md)
